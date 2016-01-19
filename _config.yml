@@ -1,6 +1,6 @@
 # Site settings
-title: MU Blog
-SEOTitle: MU的博客 | MU Blog
+title: Mu Blog
+SEOTitle: Mu的博客 | Mu Blog
 header-img: img/home-bg.jpg
 email: huamulou@163.com
 description: "Let's howl at the moon."
@@ -74,3 +74,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Friends
 #friends:
+
+
+gems: [jekyll-paginate]
