@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     mublog
-zhihu_username:     mublog
-github_username:    mublog
+weibo_username:     nerozheng
+#zhihu_username:
+github_username:    huamulou
 #twitter_username:  huxpro
-facebook_username:  mublog
+#facebook_username:  mublog
 
 
 
@@ -62,7 +62,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Let's howl at the moon."
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://null.image.alimmdn.com/avata.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
