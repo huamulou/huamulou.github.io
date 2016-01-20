@@ -1,7 +1,7 @@
 # Site settings
 title: Mu Blog
 SEOTitle: Mu的博客 | Mu Blog
-header-img: "http://mltesting.image.alimmdn.com/home-bg.jpg@_70q.jpg"
+header-img: home-bg.jpg
 email: huamulou@163.com
 description: "Let's howl at the moon."
 keyword: "JAVA, IOS, TCP性能优化, 高性能服务架构"
